@@ -17,6 +17,9 @@ const config: CapacitorConfig = {
       permissions: [
         "storage"
       ]
+    },
+    Toast: {
+      // Default Toast configuration
     }
   }
 };
